@@ -1,8 +1,8 @@
 import React from 'react';
-
+import 'assets/css/styles.css';
 function App() {
   return (
-    <div>
+    <div className='text-primary'>
       <h1>Olá, mundo</h1>
     </div>
   );
