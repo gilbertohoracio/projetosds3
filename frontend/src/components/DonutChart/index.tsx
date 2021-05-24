@@ -1,6 +1,5 @@
 import React from 'react';
 import 'assets/css/styles.css';
-import ImgDsDark from 'assets/img/ds-dark.svg'
 import Chart from 'react-apexcharts';
 function DonutChart() {
  

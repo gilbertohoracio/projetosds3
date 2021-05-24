@@ -1,6 +1,5 @@
 import React from 'react';
 import 'assets/css/styles.css';
-import ImgDsDark from 'assets/img/ds-dark.svg'
 function DataTable() {
     return (
 <div className="table-responsive">
